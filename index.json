@@ -1,0 +1,1211 @@
+{
+  "library": "jRhodes3c (Rhodes)",
+  "description": "jRhodes3c — Rhodes electric piano sample set",
+  "license": "CC-BY-NC-SA-2.0",
+  "author": "jlearman",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/jlearman.jRhodes3c",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/jrhodes3c-previews",
+  "branch": "master",
+  "fileCount": 106,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/",
+  "files": [
+    {
+      "file": "As_029__F1_1109-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_1109-mono.mp3",
+      "size": 72350,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_1109-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_1109-stereo.mp3",
+      "size": 117907,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_279-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_279-mono.mp3",
+      "size": 117907,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_279-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_279-stereo.mp3",
+      "size": 117907,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_361-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_361-mono.mp3",
+      "size": 17597,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_361-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_361-stereo.mp3",
+      "size": 72350,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_431-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_431-mono.mp3",
+      "size": 72350,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_431-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_431-stereo.mp3",
+      "size": 72350,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_51-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_51-mono.mp3",
+      "size": 19269,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_029__F1_51-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_029__F1_51-stereo.mp3",
+      "size": 97427,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_1111-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_1111-mono.mp3",
+      "size": 72350,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_1111-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_1111-stereo.mp3",
+      "size": 72350,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_281-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_281-mono.mp3",
+      "size": 52705,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_281-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_281-stereo.mp3",
+      "size": 39331,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_363-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_363-mono.mp3",
+      "size": 39331,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_433-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_433-mono.mp3",
+      "size": 73603,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_433-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_433-stereo.mp3",
+      "size": 73603,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_035__B1_53-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_035__B1_53-mono.mp3",
+      "size": 33061,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_040__E2_1113-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_040__E2_1113-stereo.mp3",
+      "size": 62318,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_040__E2_283-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_040__E2_283-mono.mp3",
+      "size": 46018,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_040__E2_365-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_040__E2_365-mono.mp3",
+      "size": 29300,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_040__E2_365-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_040__E2_365-stereo.mp3",
+      "size": 29300,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_040__E2_435-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_040__E2_435-stereo.mp3",
+      "size": 29300,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_040__E2_55-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_040__E2_55-stereo.mp3",
+      "size": 90740,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_1115-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_1115-mono.mp3",
+      "size": 25956,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_285-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_285-stereo.mp3",
+      "size": 22194,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_367-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_367-mono.mp3",
+      "size": 22194,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_437-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_437-mono.mp3",
+      "size": 43510,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_437-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_437-stereo.mp3",
+      "size": 66498,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_57-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_57-mono.mp3",
+      "size": 9656,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_045__A2_57-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_045__A2_57-stereo.mp3",
+      "size": 66498,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_050__D3_1117-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_050__D3_1117-stereo.mp3",
+      "size": 56049,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_050__D3_369-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_050__D3_369-mono.mp3",
+      "size": 21358,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_050__D3_369-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_050__D3_369-stereo.mp3",
+      "size": 21358,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_050__D3_439-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_050__D3_439-mono.mp3",
+      "size": 19687,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_050__D3_59-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_050__D3_59-stereo.mp3",
+      "size": 107876,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_1119-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_1119-mono.mp3",
+      "size": 91994,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_1119-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_1119-stereo.mp3",
+      "size": 107876,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_289-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_289-mono.mp3",
+      "size": 107876,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_289-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_289-stereo.mp3",
+      "size": 48108,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_371-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_371-mono.mp3",
+      "size": 48108,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_371-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_371-stereo.mp3",
+      "size": 48108,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_441-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_441-mono.mp3",
+      "size": 22612,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_441-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_441-stereo.mp3",
+      "size": 35151,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_511-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_511-mono.mp3",
+      "size": 51870,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_055__G3_511-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_055__G3_511-stereo.mp3",
+      "size": 48108,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_1121-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_1121-mono.mp3",
+      "size": 51870,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_1121-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_1121-stereo.mp3",
+      "size": 48108,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_291-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_291-mono.mp3",
+      "size": 59811,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_373-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_373-stereo.mp3",
+      "size": 34733,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_443-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_443-mono.mp3",
+      "size": 34733,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_443-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_443-stereo.mp3",
+      "size": 34733,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_513-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_513-mono.mp3",
+      "size": 34733,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_059__B3_513-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_059__B3_513-stereo.mp3",
+      "size": 56885,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_1123-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_1123-mono.mp3",
+      "size": 56885,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_1123-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_1123-stereo.mp3",
+      "size": 56885,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_293-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_293-stereo.mp3",
+      "size": 57721,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_375-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_375-mono.mp3",
+      "size": 51452,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_375-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_375-stereo.mp3",
+      "size": 42256,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_445-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_445-mono.mp3",
+      "size": 41421,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_445-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_445-stereo.mp3",
+      "size": 57721,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_062__D4_513-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_062__D4_513-mono.mp3",
+      "size": 57721,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_1125-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_1125-stereo.mp3",
+      "size": 66916,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_295-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_295-mono.mp3",
+      "size": 66916,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_295-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_295-stereo.mp3",
+      "size": 66916,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_377-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_377-mono.mp3",
+      "size": 70260,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_377-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_377-stereo.mp3",
+      "size": 67752,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_447-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_447-mono.mp3",
+      "size": 59811,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_517-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_517-mono.mp3",
+      "size": 72350,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_065__F4_517-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_065__F4_517-stereo.mp3",
+      "size": 23030,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_1127-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_1127-mono.mp3",
+      "size": 94083,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_297-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_297-mono.mp3",
+      "size": 68588,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_297-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_297-stereo.mp3",
+      "size": 65662,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_449-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_449-mono.mp3",
+      "size": 26374,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_449-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_449-stereo.mp3",
+      "size": 54377,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_519-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_519-mono.mp3",
+      "size": 54377,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_071__B4_519-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_071__B4_519-stereo.mp3",
+      "size": 26374,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_1129-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_1129-mono.mp3",
+      "size": 61483,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_299-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_299-mono.mp3",
+      "size": 69842,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_299-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_299-stereo.mp3",
+      "size": 61483,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_451-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_451-mono.mp3",
+      "size": 38495,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_451-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_451-stereo.mp3",
+      "size": 69842,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_521-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_521-mono.mp3",
+      "size": 38495,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_076__E5_521-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_076__E5_521-stereo.mp3",
+      "size": 20941,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_081__A5_2101-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_081__A5_2101-mono.mp3",
+      "size": 69842,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_081__A5_2101-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_081__A5_2101-stereo.mp3",
+      "size": 69842,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_081__A5_453-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_081__A5_453-mono.mp3",
+      "size": 69842,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_081__A5_453-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_081__A5_453-stereo.mp3",
+      "size": 51870,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_081__A5_523-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_081__A5_523-mono.mp3",
+      "size": 62736,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_081__A5_523-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_081__A5_523-stereo.mp3",
+      "size": 69842,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_086__D6_2103-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_086__D6_2103-mono.mp3",
+      "size": 19269,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_086__D6_2103-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_086__D6_2103-stereo.mp3",
+      "size": 62736,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_086__D6_455-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_086__D6_455-mono.mp3",
+      "size": 29300,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_086__D6_455-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_086__D6_455-stereo.mp3",
+      "size": 52705,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_086__D6_525-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_086__D6_525-mono.mp3",
+      "size": 19269,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_086__D6_525-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_086__D6_525-stereo.mp3",
+      "size": 32643,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_091__G6_2105-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_091__G6_2105-mono.mp3",
+      "size": 19269,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_091__G6_2105-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_091__G6_2105-stereo.mp3",
+      "size": 32643,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_091__G6_457-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_091__G6_457-mono.mp3",
+      "size": 72350,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_091__G6_457-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_091__G6_457-stereo.mp3",
+      "size": 19269,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_091__G6_527-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_091__G6_527-mono.mp3",
+      "size": 72350,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_096__C7_2107-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_096__C7_2107-mono.mp3",
+      "size": 40167,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_096__C7_2107-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_096__C7_2107-stereo.mp3",
+      "size": 40167,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_096__C7_459-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_096__C7_459-mono.mp3",
+      "size": 40167,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_096__C7_529-mono.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_096__C7_529-mono.mp3",
+      "size": 40167,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As_096__C7_529-stereo.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/jrhodes3c-previews/master/As_096__C7_529-stereo.mp3",
+      "size": 37241,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "29": [
+      "As_029__F1_1109-mono.mp3",
+      "As_029__F1_1109-stereo.mp3",
+      "As_029__F1_279-mono.mp3",
+      "As_029__F1_279-stereo.mp3",
+      "As_029__F1_361-mono.mp3",
+      "As_029__F1_361-stereo.mp3",
+      "As_029__F1_431-mono.mp3",
+      "As_029__F1_431-stereo.mp3",
+      "As_029__F1_51-mono.mp3",
+      "As_029__F1_51-stereo.mp3"
+    ],
+    "35": [
+      "As_035__B1_1111-mono.mp3",
+      "As_035__B1_1111-stereo.mp3",
+      "As_035__B1_281-mono.mp3",
+      "As_035__B1_281-stereo.mp3",
+      "As_035__B1_363-mono.mp3",
+      "As_035__B1_433-mono.mp3",
+      "As_035__B1_433-stereo.mp3",
+      "As_035__B1_53-mono.mp3"
+    ],
+    "40": [
+      "As_040__E2_1113-stereo.mp3",
+      "As_040__E2_283-mono.mp3",
+      "As_040__E2_365-mono.mp3",
+      "As_040__E2_365-stereo.mp3",
+      "As_040__E2_435-stereo.mp3",
+      "As_040__E2_55-stereo.mp3"
+    ],
+    "45": [
+      "As_045__A2_1115-mono.mp3",
+      "As_045__A2_285-stereo.mp3",
+      "As_045__A2_367-mono.mp3",
+      "As_045__A2_437-mono.mp3",
+      "As_045__A2_437-stereo.mp3",
+      "As_045__A2_57-mono.mp3",
+      "As_045__A2_57-stereo.mp3"
+    ],
+    "50": [
+      "As_050__D3_1117-stereo.mp3",
+      "As_050__D3_369-mono.mp3",
+      "As_050__D3_369-stereo.mp3",
+      "As_050__D3_439-mono.mp3",
+      "As_050__D3_59-stereo.mp3"
+    ],
+    "55": [
+      "As_055__G3_1119-mono.mp3",
+      "As_055__G3_1119-stereo.mp3",
+      "As_055__G3_289-mono.mp3",
+      "As_055__G3_289-stereo.mp3",
+      "As_055__G3_371-mono.mp3",
+      "As_055__G3_371-stereo.mp3",
+      "As_055__G3_441-mono.mp3",
+      "As_055__G3_441-stereo.mp3",
+      "As_055__G3_511-mono.mp3",
+      "As_055__G3_511-stereo.mp3"
+    ],
+    "59": [
+      "As_059__B3_1121-mono.mp3",
+      "As_059__B3_1121-stereo.mp3",
+      "As_059__B3_291-mono.mp3",
+      "As_059__B3_373-stereo.mp3",
+      "As_059__B3_443-mono.mp3",
+      "As_059__B3_443-stereo.mp3",
+      "As_059__B3_513-mono.mp3",
+      "As_059__B3_513-stereo.mp3"
+    ],
+    "62": [
+      "As_062__D4_1123-mono.mp3",
+      "As_062__D4_1123-stereo.mp3",
+      "As_062__D4_293-stereo.mp3",
+      "As_062__D4_375-mono.mp3",
+      "As_062__D4_375-stereo.mp3",
+      "As_062__D4_445-mono.mp3",
+      "As_062__D4_445-stereo.mp3",
+      "As_062__D4_513-mono.mp3"
+    ],
+    "65": [
+      "As_065__F4_1125-stereo.mp3",
+      "As_065__F4_295-mono.mp3",
+      "As_065__F4_295-stereo.mp3",
+      "As_065__F4_377-mono.mp3",
+      "As_065__F4_377-stereo.mp3",
+      "As_065__F4_447-mono.mp3",
+      "As_065__F4_517-mono.mp3",
+      "As_065__F4_517-stereo.mp3"
+    ],
+    "71": [
+      "As_071__B4_1127-mono.mp3",
+      "As_071__B4_297-mono.mp3",
+      "As_071__B4_297-stereo.mp3",
+      "As_071__B4_449-mono.mp3",
+      "As_071__B4_449-stereo.mp3",
+      "As_071__B4_519-mono.mp3",
+      "As_071__B4_519-stereo.mp3"
+    ],
+    "76": [
+      "As_076__E5_1129-mono.mp3",
+      "As_076__E5_299-mono.mp3",
+      "As_076__E5_299-stereo.mp3",
+      "As_076__E5_451-mono.mp3",
+      "As_076__E5_451-stereo.mp3",
+      "As_076__E5_521-mono.mp3",
+      "As_076__E5_521-stereo.mp3"
+    ],
+    "81": [
+      "As_081__A5_2101-mono.mp3",
+      "As_081__A5_2101-stereo.mp3",
+      "As_081__A5_453-mono.mp3",
+      "As_081__A5_453-stereo.mp3",
+      "As_081__A5_523-mono.mp3",
+      "As_081__A5_523-stereo.mp3"
+    ],
+    "86": [
+      "As_086__D6_2103-mono.mp3",
+      "As_086__D6_2103-stereo.mp3",
+      "As_086__D6_455-mono.mp3",
+      "As_086__D6_455-stereo.mp3",
+      "As_086__D6_525-mono.mp3",
+      "As_086__D6_525-stereo.mp3"
+    ],
+    "91": [
+      "As_091__G6_2105-mono.mp3",
+      "As_091__G6_2105-stereo.mp3",
+      "As_091__G6_457-mono.mp3",
+      "As_091__G6_457-stereo.mp3",
+      "As_091__G6_527-mono.mp3"
+    ],
+    "96": [
+      "As_096__C7_2107-mono.mp3",
+      "As_096__C7_2107-stereo.mp3",
+      "As_096__C7_459-mono.mp3",
+      "As_096__C7_529-mono.mp3",
+      "As_096__C7_529-stereo.mp3"
+    ]
+  }
+}
